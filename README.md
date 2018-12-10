@@ -1,7 +1,7 @@
 # ADM-HW3
 
 
-Repository for the third homework of the course ADM 2018 at the Sapienza University. Repository authors: Joanna Broniarek, Alice Shirinà, Daniele Sanna.
+Repository for the third homework of the course ADM 2018 at the Sapienza University. Repository authors: Alice Shirinà, Daniele Sanna, Joanna Broniarek.
 Data Source
 
 - Airbnb_Texas_Rentals.csv https://www.kaggle.com/PromptCloudHQ/airbnb-property-data-from-texas
